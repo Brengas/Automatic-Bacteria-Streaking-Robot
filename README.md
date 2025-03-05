@@ -43,7 +43,7 @@ Streaking:  <br/>
 <br />
 <br />
 Firsts cultures of E. Coli made by the robot:  <br/>
-<img src="https://raw.githubusercontent.com/Brengas/Automatic-Bacteria-Streaking-Robot/main/images/Bacteria conteo.jpg" height="70%" width="70%" alt="E. Coli Culture"/>
+<img src="https://raw.githubusercontent.com/Brengas/Automatic-Bacteria-Streaking-Robot/main/images/bacteria_conteo.jpg" height="70%" width="70%" alt="E. Coli Culture"/>
 <br />
 <br />
 
