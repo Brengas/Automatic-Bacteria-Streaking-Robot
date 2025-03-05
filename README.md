@@ -27,7 +27,7 @@ Project consists of a cartesian robot whose main goal is to draw the specific pa
 
 <p align="center">
 CAD design: <br/>
-![CAD design](https://github.com/Brengas/Automatic-Bacteria-Streaking-Robot/tree/main/images/Bacteria_vistageneral.jpg)
+<img src="https://github.com/Brengas/Automatic-Bacteria-Streaking-Robot/tree/main/images/Bacteria_vistageneral.jpg" height="80%" width="80%" alt="CAD design SolidWorks"/>
 <br />
 <br />
 Select the disk:  <br/>
