@@ -27,7 +27,7 @@ Project consists of a cartesian robot whose main goal is to draw the specific pa
 
 <p align="center">
 CAD design: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<![CAD design](images/Bacteria_vistageneral.jpg)/>
 <br />
 <br />
 Select the disk:  <br/>
