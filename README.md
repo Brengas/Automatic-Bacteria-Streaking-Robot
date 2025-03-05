@@ -31,19 +31,19 @@ CAD design: <br/>
 <br />
 <br />
 Working prototype:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Brengas/Automatic-Bacteria-Streaking-Robot/main/images/Bacteria_proto3vistas.jpg" height="70%" width="70%" alt="Prototype views"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Dispense Process: <br/>
+<img src="https://raw.githubusercontent.com/Brengas/Automatic-Bacteria-Streaking-Robot/main/images/Deposito_prototipo3.jpg" height="70%" width="70%" alt="Sample dispense"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Streaking:  <br/>
+<img src="https://raw.githubusercontent.com/Brengas/Automatic-Bacteria-Streaking-Robot/main/images/Estriado_Prototipo3.jpg" height="70%" width="70%" alt="Spiral Streaking"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Firsts cultures of the robot:  <br/>
+<img src="https://raw.githubusercontent.com/Brengas/Automatic-Bacteria-Streaking-Robot/main/images/Bacteria_vistageneral.jpg" height="70%" width="70%" alt="CAD design SolidWorks"/>
 <br />
 <br />
 Sanitization complete:  <br/>
