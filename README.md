@@ -42,17 +42,10 @@ Streaking:  <br/>
 <img src="https://raw.githubusercontent.com/Brengas/Automatic-Bacteria-Streaking-Robot/main/images/Estriado_Prototipo3.jpg" height="70%" width="70%" alt="Spiral Streaking"/>
 <br />
 <br />
-Firsts cultures of the robot:  <br/>
-<img src="https://raw.githubusercontent.com/Brengas/Automatic-Bacteria-Streaking-Robot/main/images/Bacteria_vistageneral.jpg" height="70%" width="70%" alt="CAD design SolidWorks"/>
+Firsts cultures of E. Coli made by the robot:  <br/>
+<img src="https://raw.githubusercontent.com/Brengas/Automatic-Bacteria-Streaking-Robot/main/images/Bacteria conteo.jpg" height="70%" width="70%" alt="E. Coli Culture"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
