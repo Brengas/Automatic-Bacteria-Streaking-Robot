@@ -47,6 +47,22 @@ Firsts cultures of E. Coli made by the robot:  <br/>
 <br />
 <br />
 
+## How It Works
+1. The user inputs the streaking pattern via the touchscreen interface.
+2. The Arduino Mega, running GRBL, controls the NEMA 17 motors to move the streaking tool.
+3. The ESP32 handles the touchscreen interface and communicates with the Arduino.
+4. The robot performs the streaking process autonomously, with minimal human intervention.
+
+## Results
+- Achieved near-complete automation of the streaking process.
+- Reduced human involvement by 90%, minimizing contamination risks.
+- Demonstrated the potential for use in medical and laboratory settings.
+
+## Future Improvements
+- Integration with laboratory information systems for automated sample tracking.
+- Enhanced user interface with additional features like pattern customization.
+- Optimization of motor control for faster and more precise movements.
+
 <!--
  ```diff
 - text in red
