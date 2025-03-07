@@ -55,7 +55,7 @@ Firsts cultures of E. Coli made by the robot:  <br/>
 
 ## Results
 - Achieved near-complete automation of the streaking process.
-- Reduced human involvement by 90%, minimizing contamination risks.
+- Reduced human involvement by 70%, minimizing contamination risks.
 - Demonstrated the potential for use in medical and laboratory settings.
 
 ## Future Improvements
