@@ -39,7 +39,7 @@ Dispense Process: <br/>
 <br />
 <br />
 Streaking:  <br/>
-<img src="https://raw.githubusercontent.com/Brengas/Automatic-Bacteria-Streaking-Robot/main/images/Estriado_Prototipo3.jpg" height="70%" width="70%" alt="Spiral Streaking"/>
+<img src="https://raw.githubusercontent.com/Brengas/Automatic-Bacteria-Streaking-Robot/main/images/Estriado_Prototipo3.jpg" height="50%" width="50%" alt="Spiral Streaking"/>
 <br />
 <br />
 Firsts cultures of E. Coli made by the robot:  <br/>
