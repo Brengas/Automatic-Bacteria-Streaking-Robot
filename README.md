@@ -35,7 +35,7 @@ Working prototype:  <br/>
 <br />
 <br />
 Dispense Process: <br/>
-<img src="https://raw.githubusercontent.com/Brengas/Automatic-Bacteria-Streaking-Robot/main/images/Deposito_prototipo3.jpg" height="70%" width="70%" alt="Sample dispense"/>
+<img src="https://raw.githubusercontent.com/Brengas/Automatic-Bacteria-Streaking-Robot/main/images/Deposito_prototipo3.jpg" height="50%" width="50%" alt="Sample dispense"/>
 <br />
 <br />
 Streaking:  <br/>
